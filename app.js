@@ -19,7 +19,7 @@ if ('serviceWorker' in navigator) {
 
 Notification.requestPermission(result => {
   if (result === 'granted') {
-    // showNotification('So nice to have you here!', 'Hey there!')
+    showNotification('So nice to have you here!', 'Hey there!')
   }
 });
 
