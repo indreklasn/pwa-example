@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "workbox": "^0.0.0"
+  },
+  "devDependencies": {
+    "workbox-cli": "^4.3.1"
+  }
+}
