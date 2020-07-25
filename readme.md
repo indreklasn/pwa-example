@@ -1,7 +1,7 @@
-indreklasn/pwa-example is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+pwa-example is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 
-<a href="https://tracking.gitads.io/?repo=indreklasn+pwa-example">
-<img src="https://images.gitads.io/indreklasn+pwa-example" alt="GitAds"/> </a>
+<a href="https://tracking.gitads.io/?repo=pwa-example">
+<img src="https://images.gitads.io/pwa-example" alt="GitAds"/> </a>
 
 
 
